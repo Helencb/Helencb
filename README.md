@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Helen!
 
-<!--
-**Helencb/Helencb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unimar e apaixonada por tecnologia e desenvolvimento de software.  
+Atualmente, estou focada em aprender **Python, Django e desenvolvimento web**, criando projetos práticos para aprimorar minhas habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎯 Buscando evoluir como **desenvolvedora back-end**  
+- 🌱 Aprendendo **Python**, Django e bancos de dados
+- 💡 Gosto de transformar ideias em soluções criativas  
+- 📚 Adoro aprender novas tecnologias e me desafiar com projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python e Django   
+- **Banco de Dados:** SQLite, MongoDB (estudando)  
+- **Outros:** Git, GitHub
+
+## 📫 Como me encontrar
+[LinkedIn](https://www.linkedin.com/in/hcbatista/) | [E-mail](h.c.batista2002@gmailcom)
+
+---
+⭐ *"Cada linha de código é um passo para transformar sonhos em realidade."*
