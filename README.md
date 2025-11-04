@@ -57,11 +57,10 @@
 <!-- Opcional: seção de status do GitHub -->
 ### 📊 Meu GitHub
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hcbatista&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcbatista&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Helencb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencb&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
----
 
 ### 🧠 Principais Linguagens
 <p align="center">
