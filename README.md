@@ -1,44 +1,77 @@
-<!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou a Helen!</h1>
+<h1 align="center">👋 Olá, eu sou a Helen Cristina</h1>
 
 <p align="center">
-  💻 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>Unimar</b> <br>
-  🚀 Apaixonada por tecnologia e desenvolvimento de software
+  💻 Desenvolvedora Back-End | Java & Spring Boot <br>
+  🎓 Análise e Desenvolvimento de Sistemas - UNIMAR <br>
+  🚀 Construindo APIs escaláveis e bem estruturadas
 </p>
 
 ---
 
-### 🌱 Sobre mim
-- 🎯 Buscando evoluir como **Desenvolvedora Back-End**  
-- 🐍 Estudando **Python**, **Java** e **Spring Boot**  
-- 💡 Gosto de transformar ideias em soluções criativas e funcionais  
-- 📚 Sempre aprendendo novas tecnologias e criando projetos para aprimorar minhas habilidades  
+## 🚀 Sobre mim
+Desenvolvedora Back-End com foco em construção de **APIs REST escaláveis**, aplicando boas práticas de desenvolvimento e arquitetura.
+
+Tenho experiência com:
+- Desenvolvimento de APIs com **Java + Spring Boot**
+- Integração com bancos de dados relacionais e não relacionais
+- Estruturação de projetos com **arquitetura em camadas**
+- Versionamento de código com Git e GitHub
+
+💡 Busco sempre escrever código limpo, organizado e de fácil manutenção.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Stack Tecnológica
 
-#### 💻 Linguagens  
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### 🌿 Framework  
+### 🌿 Back-End
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-#### 🗄️ Banco de Dados  
+### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### ⚙️ Ferramentas e Versionamento  
+### ⚙️ Ferramentas & Práticas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-### 📫 Como me encontrar  
-<p>
+## 🧠 Habilidades Técnicas
+
+- ✔️ Desenvolvimento de APIs REST com Spring Boot  
+- ✔️ Arquitetura em camadas (Controller, Service, Repository)  
+- ✔️ Integração com bancos de dados (MySQL e MongoDB)  
+- ✔️ Modelagem de dados e entidades com JPA/Hibernate  
+- ✔️ Versionamento de código com Git  
+- ✔️ Criação de endpoints bem estruturados  
+- ✔️ Organização e padronização de código  
+- ✔️ Consumo e construção de APIs  
+
+---
+
+## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Helencb&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Helencb&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Helencb&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contato
+<p align="center">
   <a href="https://www.linkedin.com/in/hcbatista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -49,20 +82,11 @@
 
 ---
 
-### ✨ Frase que me inspira  
-⭐ *"Cada linha de código é um passo para transformar sonhos em realidade."*
+## ✨ Filosofia
+> "Código limpo e bem estruturado transforma soluções simples em sistemas escaláveis."
 
 ---
 
-<!-- Opcional: seção de status do GitHub -->
-### 📊 Meu GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Helencb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helencb&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-
-### 🧠 Principais Linguagens
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql,spring,git,github,vscode,idea" />
 </p>
