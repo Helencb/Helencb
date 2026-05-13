@@ -1,64 +1,132 @@
 <h1 align="center">👋 Olá, eu sou a Helen Cristina</h1>
 
 <p align="center">
-  💻 Desenvolvedora Back-End | Java & Spring Boot <br>
-  🎓 Análise e Desenvolvimento de Sistemas - UNIMAR <br>
-  🚀 Construindo APIs escaláveis e bem estruturadas
+  💻 Desenvolvedora Back-End Java & Spring Boot <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIMAR <br>
+  🚀 Construindo microsserviços, APIs escaláveis e arquitetura de software
 </p>
 
 ---
 
-## 🚀 Sobre mim
-Desenvolvedora Back-End com foco em construção de **APIs REST escaláveis**, aplicando boas práticas de desenvolvimento e arquitetura.
+# 🚀 Sobre mim
 
-Tenho experiência com:
-- Desenvolvimento de APIs com **Java + Spring Boot**
-- Integração com bancos de dados relacionais e não relacionais
-- Estruturação de projetos com **arquitetura em camadas**
-- Versionamento de código com Git e GitHub
+Sou desenvolvedora Back-End em formação, focada na construção de aplicações robustas utilizando o ecossistema Java e Spring.
 
-💡 Busco sempre escrever código limpo, organizado e de fácil manutenção.
+Atualmente estudo e desenvolvo projetos com foco em:
+
+- APIs REST escaláveis
+- Arquitetura de Microsserviços
+- Comunicação assíncrona com RabbitMQ
+- Segurança com JWT e Spring Security
+- Observabilidade com Prometheus e Grafana
+- Containerização com Docker
+- Cloud e Infraestrutura (AWS, Azure e Terraform)
+
+💡 Tenho grande interesse em arquitetura de software, boas práticas, Clean Code e sistemas distribuídos.
 
 ---
 
-## 🛠️ Stack Tecnológica
+# 🛠️ Stack Tecnológica
 
-### 💻 Linguagens
+## 💻 Linguagens
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌿 Back-End
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+---
+
+## 🌿 Back-End & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-### 🗄️ Banco de Dados
+---
+
+## ☁️ Microsserviços & Arquitetura
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-000000?style=for-the-badge)
+
+---
+
+## 🗄️ Banco de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Ferramentas & Práticas
+---
+
+## 📊 Observabilidade & Monitoramento
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🧪 Testes
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## ⚙️ Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🧠 Habilidades Técnicas
+# 🧠 Habilidades Técnicas
 
-- ✔️ Desenvolvimento de APIs REST com Spring Boot  
-- ✔️ Arquitetura em camadas (Controller, Service, Repository)  
-- ✔️ Integração com bancos de dados (MySQL e MongoDB)  
-- ✔️ Modelagem de dados e entidades com JPA/Hibernate  
-- ✔️ Versionamento de código com Git  
-- ✔️ Criação de endpoints bem estruturados  
-- ✔️ Organização e padronização de código  
-- ✔️ Consumo e construção de APIs  
+✔️ Desenvolvimento de APIs REST com Spring Boot  
+✔️ Arquitetura de Microsserviços  
+✔️ Segurança com Spring Security + JWT  
+✔️ Integração assíncrona com RabbitMQ  
+✔️ Modelagem de dados com JPA/Hibernate  
+✔️ Banco de dados relacionais e não relacionais  
+✔️ Observabilidade com Prometheus e Grafana  
+✔️ Testes unitários com JUnit e Mockito  
+✔️ Containerização com Docker  
+✔️ Versionamento com Git e GitHub  
+✔️ Clean Code e boas práticas de desenvolvimento  
+✔️ Estudos em Cloud Computing e Infraestrutura como Código  
 
 ---
 
-## 📊 Estatísticas GitHub
+# 📚 Atualmente estudando
+
+- Microsserviços avançados
+- Docker e containers
+- AWS e Azure
+- Terraform
+- Arquitetura orientada a eventos
+- Observabilidade
+- Sistemas distribuídos
+
+---
+
+# 📊 Estatísticas GitHub
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Helencb&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Helencb&theme=tokyonight"/>
@@ -70,11 +138,13 @@ Tenho experiência com:
 
 ---
 
-## 📫 Contato
+# 📫 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hcbatista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:h.c.batista2002@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -82,11 +152,12 @@ Tenho experiência com:
 
 ---
 
-## ✨ Filosofia
-> "Código limpo e bem estruturado transforma soluções simples em sistemas escaláveis."
+# ✨ Filosofia
+
+> “Código limpo, arquitetura bem definida e aprendizado contínuo constroem sistemas escaláveis.”
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,spring,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,mongodb,redis,rabbitmq,docker,aws,azure,terraform,git,github,vscode,idea" />
 </p>
