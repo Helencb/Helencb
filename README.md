@@ -128,11 +128,6 @@ Atualmente estudo e desenvolvo projetos com foco em:
 # 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Helencb&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Helencb&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Helencb&theme=tokyonight&hide_border=true"/>
 </p>
 
